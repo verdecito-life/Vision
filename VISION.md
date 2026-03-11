@@ -1,6 +1,6 @@
-[Oneness Community — Vision Kit](./README.md) > Vision
+[Vision Kit 🌿](./README.md) > Vision
 
-# Oneness Community — Vision 🌿
+# Vision 🌿
 
 <!--
 EDITOR NOTES (read in source, not rendered)

@@ -1,4 +1,4 @@
-[Vision Kit 🌿](../README.md) > Visión
+[Vision Kit 🌿](./README.md) > Visión
 
 # Visión 🌿
 

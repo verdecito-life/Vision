@@ -1,3 +1,5 @@
+[Vision Kit 🌿](./README.md) > Contributing
+
 # Contributing to Vision Kit 🌿
 
 Thank you for your interest in contributing.

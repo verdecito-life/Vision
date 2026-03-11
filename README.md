@@ -2,11 +2,11 @@
 
 This repository is a shared **Vision Kit** for life, community, and project visions.
 
-It offers a broad philosophical backbone that can be reused, adapted, and forked — without forcing anyone into a closed club or a rigid framework.
+It offers a broad backbone that can be reused, adapted, and forked — without forcing anyone into a closed club or a rigid framework.
 
 > **Verdecito lo que salga — “Let it sprout” 🌿**
 > 
-> A simple lens (optional), born in [Voluntariado Barranco](https://voluntariado.barranco.life): keep ideas regenerative, simple, and evidence-friendly.
+> A simple lens (optional), born in [Voluntariado Barranco](https://voluntariado.barranco.life): keep ideas regenerative, simple, and open to evidence.
 >
 
 ---
@@ -14,7 +14,7 @@ It offers a broad philosophical backbone that can be reused, adapted, and forked
 ## What this repo is
 
 - A [**canonical vision**](/VISION.md)
-- A lightweight upstream that can be copied or forked
+- A lightweight upstream that can be copied, adapted, or forked
 - A living backbone for people, communities, and projects that want to articulate values, purpose, and mission more clearly
 
 ## What this repo is not
@@ -40,7 +40,7 @@ English is canonical in the repository root.
 Fork this repository if you want to stay explicitly rooted in this backbone.
 
 ### 2) Copy only what you need
-If you don’t want to appear as a fork, copy [`/VISION.md`](/VISION.md) into your own repo and adapt it to your context.
+If you don’t want to appear as a fork, copy [`/VISION.md`](./VISION.md) into your own repo and adapt it to your context.
 
 ---
 
