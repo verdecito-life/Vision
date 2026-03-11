@@ -1,28 +1,40 @@
-# Contributing to Progressive Oneness
+# Contributing to Vision Kit 🌿
 
-Thank you for your interest in contributing to Progressive Oneness. Our initiative is centered around fostering a diverse range of projects that align under shared core values and beliefs, while encouraging unique mission statements reflecting each project's specific goals.
+Thank you for your interest in contributing.
 
-## Writing Your Mission
+This repository is intentionally lightweight. Its purpose is to hold a broad, reusable vision that can resonate across life, community, and project contexts.
 
-The core of your contribution lies in crafting a unique Mission section for your project. This should articulate how your project aligns with the overall [vision](/VISION.md) of Progressive Oneness and detail your specific aims and objectives. This is where you define your project's unique contribution to our collective vision.
+## How to contribute
 
-## Contribution Process
+There are a few simple ways to help:
 
-1. **Fork or Use as a Template:** Begin by forking this repository or using it as a template. This allows you to create a version of the vision that you can tailor to your project's context.
-2. **Customize Your Mission:** Adapt the Mission section to reflect your project's specific goals, ensuring it aligns with the vision of Progressive Oneness.
+1. **Improve the Vision**
+   Suggest improvements to [`/VISION.md`](/VISION.md) when they make the text clearer, more grounded, or more resonant.
 
-## Optional Contributions
+2. **Translations**
+   Help translate the Vision into other languages, keeping meaning and tone aligned rather than translating too literally.
 
-- **Improving the Vision and Mission:** We welcome suggestions for enhancing the Core Values and Beliefs, Purpose, or even the repository's own Mission. Your insights can help refine our shared direction.
-- **Translations:** Help us reach a broader audience by translating the vision into other languages.
-- **General Improvements:** We appreciate any contributions that strengthen the project, including documentation enhancements.
+3. **Refinement**
+   Improve wording, formatting, breadcrumbs, and internal links so the repository is easier to read and reuse.
 
-## Community Engagement and Code of Conduct
+## Reusing this repository
 
-Join our discussions in the [Progressive Oneness Discussions](https://github.com/ProgressiveOneness/Vision/discussions) to share ideas, ask questions, and connect with others in the community. We strive to foster a respectful and collaborative environment and expect all contributors to uphold the values outlined in our vision.
+You may reuse this Vision in two main ways:
 
-## Further Information
+- **Fork this repo** if you want to stay explicitly rooted in this backbone.
+- **Copy [`/VISION.md`](/VISION.md)** into your own repository and adapt it to your context.
 
-For a comprehensive understanding of our core vision, please refer to the [Vision document](/VISION.md).
+When adapting the Vision, the section that will usually change the most is **Mission**.
 
-We are excited to see your unique contributions and to grow a community of projects unified in their pursuit of transformative change and global unity.
+## Contribution style
+
+Please keep contributions aligned with the spirit of this repo:
+
+- prefer clarity over abstraction
+- prefer grounded language over hype
+- keep the text broad enough to resonate with life, community, and project contexts
+- avoid dogma, coercion, or grandiose claims
+
+## Further information
+
+For the main document, see the [Vision](/VISION.md).

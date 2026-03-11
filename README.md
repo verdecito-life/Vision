@@ -1,29 +1,55 @@
-# Welcome to Progressive Oneness
+# Vision Kit 🌿
 
-Progressive Oneness is an initiative deeply rooted in the pursuit of a transformative vision – one that harmonizes individual aspirations with the collective journey towards unity and progress. Our mission is to be a catalyst for projects that embody this ethos, fostering a network of collaboration under a shared philosophical umbrella.
+This repository is a shared **Vision Kit** for life, community, and project visions.
 
-## Embracing Our Vision
+It offers a broad philosophical backbone that can be reused, adapted, and forked — without forcing anyone into a closed club or a rigid framework.
 
-At the heart of Progressive Oneness is our vision, a guiding manifesto for transformative change and universal interconnectedness. It's more than just a concept; it's a living blueprint for action, innovation, and collective evolution. We invite you to explore and embrace this vision, which is the cornerstone of everything we do. [Dive into our vision](/VISION.md).
+> **Verdecito lo que salga — “Let it sprout” 🌿**
+> 
+> A simple lens (optional), born in [Voluntariado Barranco](https://voluntariado.barranco.life): keep ideas regenerative, simple, and evidence-friendly.
+>
 
-## How to Align with Our Vision
+---
 
-You can start aligning with our vision in several ways:
-- **Forking Our Repository**: Fork this repository, customize the vision's mission, and adapt any aspect to fit the unique goals of your project.
-- **Creating a New Repository**: If you prefer not to show your project as a fork, you can create a new repository using ours as a template or just copy the [`VISION.md`](/VISION.md) file and modify it to suit your project.
-- **Get Inspired**: Even if you choose not to fork or directly use our repository, feel free to draw inspiration from our vision and principles in your own way.
+## What this repo is
 
-### Get Involved:
-- **Contribute to Our Vision**: Engage with us to refine and expand our vision. Your insights are invaluable.
-- **Start or Align Your Project**: Use our vision as a foundation for your initiatives and align your efforts with a global network of transformative projects.
-- **Engage with the Community**: Join the conversation, share your experiences, and connect with like-minded individuals and groups.
+- A [**canonical vision**](/VISION.md)
+- A lightweight upstream that can be copied or forked
+- A living backbone for people, communities, and projects that want to articulate values, purpose, and mission more clearly
 
-[Learn how you can contribute](/CONTRIBUTING.md).
+## What this repo is not
 
-## Stay Connected
+- Not a project workflow
+- Not a registry
+- Not a financial intermediary
 
-Join the conversation and become an active part of our growing community. Share your ideas, ask questions, and connect with others who are passionate about our vision. Visit [Progressive Oneness Discussions](https://github.com/ProgressiveOneness/Vision/discussions) to engage with us and fellow visionaries.
+---
 
-Additionally, explore the [Progressive Oneness Network](https://github.com/ProgressiveOneness/Vision/network) to discover a range of projects aligned with our vision. It's a great way to see the impact of our collective efforts and to find opportunities for collaboration.
+## Languages
 
-We look forward to seeing you there and collaborating on shaping a unified and progressive future!
+English is canonical in the repository root.
+
+- English: [`/VISION.md`](/VISION.md)
+- Español: [`/es/`](/es/)
+
+---
+
+## How to use it
+
+### 1) Fork this repo
+Fork this repository if you want to stay explicitly rooted in this backbone.
+
+### 2) Copy only what you need
+If you don’t want to appear as a fork, copy [`/VISION.md`](/VISION.md) into your own repo and adapt it to your context.
+
+---
+
+## Contributing
+
+- Contribution guide: [`/CONTRIBUTING.md`](/CONTRIBUTING.md)
+
+---
+
+## License
+
+This repository is licensed under [`CC BY 4.0`](./LICENSE).

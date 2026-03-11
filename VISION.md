@@ -1,17 +1,83 @@
-# Progressive Oneness Vision
+[Oneness Community — Vision Kit](./README.md) > Vision
 
-## Core Values and Beliefs
+# Oneness Community — Vision 🌿
 
-We recognize the interconnectedness of all beings, understanding that our existence is part of a larger, unified whole. Through positive thoughts, words, and actions, we strive to shape a different reality. Our journey is one of continuous learning and evolution, where we cherish the present, fall in love with the process, and are committed to creating change from within.
+<!--
+EDITOR NOTES (read in source, not rendered)
+- Keep this document readable to a first‑time visitor.
+- This is the upstream backbone (🌿). It should change slowly.
+- This vision should resonate for: a person’s life, a community, or a project.
+- Avoid big claims. Prefer grounded language and verifiable links when you add them.
+-->
+
+> **Verdecito lo que salga — “Let it sprout” 🌿**
+>
+> A simple lens (optional): keep ideas regenerative, simple, and evidence‑friendly.
+
+---
+
+## Core Values & Beliefs
+
+We recognize the interconnectedness of life: what we do shapes what we become, and what we become shapes what we do.
+
+- **Integrity over image.** We choose honesty over performance.
+- **Practice over ideology.** We value what is lived, not just what is said.
+- **Freedom with responsibility.** No coercion, no manipulation, no extraction.
+- **Clarity is kindness.** If it can’t be explained simply, it’s not ready.
+- **Regenerative by design.** Leave people, places, and systems better than we found them.
+- **Open by default.** We share patterns so others can adapt, remix, and improve.
+
+---
 
 ## Purpose
 
-To serve as a role model for ourselves, and then society, embodying authenticity and manifesting a reality aligned with the immense capabilities of humankind. By leading through example, our aim is to inspire and catalyze transformation, illustrating that a life of harmony and sustainability, rooted in self-evolution, is not only possible but essential. This journey is about guiding and empowering ourselves and others, forging a future where personal development harmonizes with collective progress. Our ultimate purpose is to help us realize that we are all the same and unique universal being.
+To help individuals and groups remember a simple truth:
+
+**we are all the same being — and each of us is a unique expression of it.**
+
+From that remembrance, we choose a practical path:
+
+- a meaningful life built through small, honest choices,
+- communities that thrive through care and clear agreements,
+- and ideas that become real through practice, feedback, and evidence.
+
+We exist to make this easier to articulate and easier to do — without dogma, and without pretending we have the final answers.
+
+---
 
 ## Mission
 
-Serve as a guiding light for projects and individuals who resonate with a transformative vision, one that centers on the profound interconnectedness of all existence, the continual evolution of our collective being, and the pursuit of authentic living. We strive to cultivate a rich mosaic of initiatives, each echoing our core values of innovation, self-awareness, and sustainability. Through this central vision document, we invite diverse interpretations and applications of these principles, fostering a harmony that respects unique goals and contexts.
+<!--
+EDIT HERE (Mission)
+- Keep it concrete: who / what / how / boundaries.
+- Prefer verbs and short paragraphs.
+- If you fork this for a specific life / community / project, rewrite Mission to match that context.
+-->
 
-Our vision is for this repository to become a melting pot of ideas and aspirations, a catalyst for a collective movement that not only impacts society positively but also subtly nudges towards an understanding of our underlying unity. We are open to projects across the spectrum - entrepreneurial, educational, artistic, or technological - encouraging them to fork this vision and weave their unique thread into the global fabric of change.
+We cultivate an open ecosystem of language, tools, and community practice that helps people move from **vision → action → evidence**.
 
-By embarking on this mission, we are dedicated to building a community where collaboration transcends mere physical and intellectual boundaries, hinting at a deeper connection that binds us all. We see this not just as a repository of ideas, but as a living manifesto for transformative change, a call to all who align with these values to help sculpt a world where the realization of our collective essence guides personal growth and societal advancement. This is a journey towards realizing a universal truth, subtly ingrained in our shared aspirations and endeavors.
+- For a person: clarify values, purpose, and a living mission.
+- For a community: define agreements, roles, and rhythms that sustain care.
+- For a project: make it legible, structured, and easier to support.
+
+We do not promise impact, enlightenment, or financial returns. We promise a bias toward:
+
+- **structure** (so the next step is clear),
+- **honesty** (so trust is earned),
+- **practice** (so it becomes real),
+- and **evidence** (so we learn and improve).
+
+---
+
+<details>
+<summary><b>For editors: how to reuse this Vision</b></summary>
+
+If you want to reuse this Vision:
+
+- **Lightweight reuse:** copy this file into your own repo and adjust the Mission section.
+- **Forking:** fork this repo if you want to stay explicitly rooted in this backbone.
+
+If you want the “full Oneness workflow” for projects (wizard, gaps, assessments, etc.), use the dedicated project repo template instead (published separately):
+- https://github.com/OnenessCommunity/project-template
+
+</details>
