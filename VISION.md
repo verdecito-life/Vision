@@ -77,7 +77,4 @@ If you want to reuse this Vision:
 - **Lightweight reuse:** copy this file into your own repo and adjust the Mission section.
 - **Forking:** fork this repo if you want to stay explicitly rooted in this backbone.
 
-If you want the “full Oneness workflow” for projects (wizard, gaps, assessments, etc.), use the dedicated project repo template instead (published separately):
-- https://github.com/OnenessCommunity/project-template
-
 </details>

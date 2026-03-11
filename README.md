@@ -1,5 +1,7 @@
 # Vision Kit 🌿
 
+[Español](/es/)
+
 This repository is a shared **Vision Kit** for life, community, and project visions.
 
 It offers a broad backbone that can be reused, adapted, and forked — without forcing anyone into a closed club or a rigid framework.
@@ -22,15 +24,6 @@ It offers a broad backbone that can be reused, adapted, and forked — without f
 - Not a project workflow
 - Not a registry
 - Not a financial intermediary
-
----
-
-## Languages
-
-English is canonical in the repository root.
-
-- English: [`/VISION.md`](/VISION.md)
-- Español: [`/es/`](/es/)
 
 ---
 

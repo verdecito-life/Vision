@@ -77,7 +77,4 @@ Si quieres reutilizar esta Visión:
 - **Reutilización ligera:** copia este archivo en tu propio repo y ajusta la sección de Misión.
 - **Fork:** haz fork de este repo si quieres mantenerte explícitamente enraizado en este backbone.
 
-Si quieres el “workflow completo de Verdecito” para proyectos (wizard, gaps, assessments, etc.), usa el repo template dedicado para proyectos, publicado por separado:
-- https://github.com/verdecito-life/project-template
-
 </details>

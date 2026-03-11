@@ -1,5 +1,7 @@
 # Vision Kit 🌿
 
+[English](../README.md)
+
 Este repositorio es un **Vision Kit** compartido para visiones de vida, comunidad y proyecto.
 
 Ofrece un backbone amplio que puede reutilizarse, adaptarse y forkearse — sin obligar a nadie a entrar en un club cerrado ni en un marco rígido.
@@ -23,15 +25,6 @@ Ofrece un backbone amplio que puede reutilizarse, adaptarse y forkearse — sin 
 
 ---
 
-## Idiomas
-
-El inglés es canónico en la raíz del repositorio.
-
-- English: [`./VISION.md`](../VISION.md)
-- Español: [`./es/VISION.md`](./VISION.md)
-
----
-
 ## Cómo usarlo
 
 ### 1) Haz fork de este repo
@@ -50,4 +43,4 @@ Si no quieres aparecer como fork, copia [`./VISION.md`](./VISION.md) dentro de t
 
 ## Licencia
 
-Este repositorio está licenciado bajo [`CC BY 4.0`](./LICENSE).
+Este repositorio está licenciado bajo [`CC BY 4.0`](../LICENSE).
